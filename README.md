@@ -1,0 +1,1 @@
+# Image-Resizing-using-IrfanView-3rd-Party-App
